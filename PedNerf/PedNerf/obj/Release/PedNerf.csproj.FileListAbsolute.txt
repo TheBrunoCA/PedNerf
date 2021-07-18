@@ -1,0 +1,7 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\Area de Trabalho\GitHub\GTA V Mods\scripts\PedNerf\PedNerf.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Area de Trabalho\GitHub\GTA V Mods\scripts\PedNerf\PedNerf.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Area de Trabalho\GitHub\GTA V Mods\PedNerf\PedNerf\PedNerf\obj\Release\PedNerf.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Area de Trabalho\GitHub\GTA V Mods\PedNerf\PedNerf\PedNerf\obj\Release\PedNerf.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Area de Trabalho\GitHub\GTA V Mods\PedNerf\PedNerf\PedNerf\obj\Release\PedNerf.csproj.CopyComplete
+C:\Users\bruno\OneDrive\Área de Trabalho\Area de Trabalho\GitHub\GTA V Mods\PedNerf\PedNerf\PedNerf\obj\Release\PedNerf.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Area de Trabalho\GitHub\GTA V Mods\PedNerf\PedNerf\PedNerf\obj\Release\PedNerf.pdb
